@@ -10,7 +10,8 @@ After some time we had done research regarding the whole protocol, documented it
 ## What do you provide?
 We have several repositories serving you with code and documents to help you create your own projects on top of the Smartglass protocol.
 
-* TBA
+* [Protocol documentation](https://openxbox.github.io/smartglass-documentation)
+* [Tools](https://github.com/openxbox/smartglass-tools)
 
 ## Disclaimer
 Xbox, Xbox One, Smartglass and Xbox Live are trademarks of Microsoft Corporation. Team OpenXbox is in no way endorsed by or affiliated with Microsoft Corporation, or any associated subsidiaries, logos or trademarks. 
