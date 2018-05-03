@@ -2,7 +2,7 @@
 title: Team OpenXbox 
 ---
 
-# OpenXbox
+# OpenXbox - Open Source Xbox One tools
 
 ## Who are you?
 We are a little group interested in Microsoft's Xbox One Gaming console and, more specifically, the Smartglass protocol.
@@ -16,6 +16,12 @@ We have several repositories serving you with code and documents to help you cre
 
 * [Protocol documentation](https://openxbox.github.io/smartglass-documentation)
 * [Tools](https://github.com/openxbox/smartglass-tools)
+
+### Python libraries
+Provided python libraries
+
+* [Xbox Web API](https://github.com/openxbox/xbox-webapi-python)
+* [Xbox SmartGlass Core](https://github.com/openxbox/xbox-smartglass-core-python)
 
 ## Disclaimer
 Xbox, Xbox One, Smartglass and Xbox Live are trademarks of Microsoft Corporation. Team OpenXbox is in no way endorsed by or affiliated with Microsoft Corporation, or any associated subsidiaries, logos or trademarks. 
