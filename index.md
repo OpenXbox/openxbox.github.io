@@ -22,6 +22,9 @@ Provided Python libraries
 
 * [Xbox Web API](https://github.com/openxbox/xbox-webapi-python)
 * [Xbox SmartGlass Core](https://github.com/openxbox/xbox-smartglass-core-python)
+* [Xbox SmartGlass Stump (TV streaming / IR control commands)](https://github.com/openxbox/xbox-smartglass-stump-python)
+* [Xbox SmartGlass Auxiliary (Game experience / Fallout 4)](https://github.com/openxbox/xbox-smartglass-auxiliary-python)
+* [Xbox SmartGlass Nano (Gamestreaming)](https://github.com/openxbox/xbox-smartglass-nano-python)
 
 ## Disclaimer
 Xbox, Xbox One, SmartGlass and Xbox Live are trademarks of Microsoft Corporation. Team OpenXbox is in no way endorsed by or affiliated with Microsoft Corporation, or any associated subsidiaries, logos or trademarks. 
