@@ -26,5 +26,9 @@ Provided Python libraries
 * [Xbox SmartGlass Auxiliary (Game experience / Fallout 4)](https://github.com/openxbox/xbox-smartglass-auxiliary-python)
 * [Xbox SmartGlass Nano (Gamestreaming)](https://github.com/openxbox/xbox-smartglass-nano-python)
 
+## Other implementations
+
+* [DarkId.SmartGlass - C# (.NET Standard) library - by @joelday](https://github.com/joelday/DarkId.SmartGlass)
+
 ## Disclaimer
 Xbox, Xbox One, SmartGlass and Xbox Live are trademarks of Microsoft Corporation. Team OpenXbox is in no way endorsed by or affiliated with Microsoft Corporation, or any associated subsidiaries, logos or trademarks. 
