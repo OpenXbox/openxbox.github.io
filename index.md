@@ -30,5 +30,8 @@ Provided Python libraries
 
 * [DarkId.SmartGlass - C# (.NET Standard) library - by @joelday](https://github.com/joelday/DarkId.SmartGlass)
 
+## Discord
+Join our discord chat server by following the [invite link](https://discord.gg/uzbC73m)
+
 ## Disclaimer
 Xbox, Xbox One, SmartGlass and Xbox Live are trademarks of Microsoft Corporation. Team OpenXbox is in no way endorsed by or affiliated with Microsoft Corporation, or any associated subsidiaries, logos or trademarks. 
