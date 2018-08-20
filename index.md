@@ -25,10 +25,12 @@ Provided Python libraries
 * [Xbox SmartGlass Stump (TV streaming / IR control commands)](https://github.com/openxbox/xbox-smartglass-stump-python)
 * [Xbox SmartGlass Auxiliary (Game experience / Fallout 4)](https://github.com/openxbox/xbox-smartglass-auxiliary-python)
 * [Xbox SmartGlass Nano (Gamestreaming)](https://github.com/openxbox/xbox-smartglass-nano-python)
+* [Xbox SmartGlass REST server (SmartGlass via HTTP)](https://github.com/OpenXbox/xbox-smartglass-rest-python)
 
 ## Other implementations
 
 * [DarkId.SmartGlass - C# (.NET Standard) library - by @joelday](https://github.com/joelday/DarkId.SmartGlass)
+* [Home Assistant addon - maintained by @hunterjm](https://github.com/hunterjm/hassio-addons)
 
 ## Discord
 Join our discord chat server by following the [invite link](https://discord.gg/E8kkJhQ)
