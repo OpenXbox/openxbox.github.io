@@ -27,10 +27,14 @@ Provided Python libraries
 * [Xbox SmartGlass Nano (Gamestreaming)](https://github.com/openxbox/xbox-smartglass-nano-python)
 * [Xbox SmartGlass REST server (SmartGlass via HTTP)](https://github.com/OpenXbox/xbox-smartglass-rest-python)
 
-## Other implementations
+### C# / .NET libraries
+* [Xbox Web API](https://github.com/OpenXbox/xbox-webapi-csharp)
+* [Xbox SmartGlass (AIO) - by @joelday](https://github.com/OpenXbox/xbox-smartglass-csharp)
 
-* [DarkId.SmartGlass - C# (.NET Standard) library - by @joelday](https://github.com/joelday/DarkId.SmartGlass)
+## Other implementations
 * [Home Assistant addon - maintained by @hunterjm](https://github.com/hunterjm/hassio-addons)
+* [ioBroker addon - maintained by @foxriver76](https://github.com/foxriver76/ioBroker.xbox)
+* [Elite: Dangerous plotter - maintained by @jtcressy](https://github.com/jtcressy/elite-route-plotter)
 
 ## Discord
 Join our discord chat server by following the [invite link](https://discord.gg/E8kkJhQ)
