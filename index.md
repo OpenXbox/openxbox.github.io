@@ -31,6 +31,14 @@ Provided Python libraries
 * [Xbox Web API](https://github.com/OpenXbox/xbox-webapi-csharp)
 * [Xbox SmartGlass (AIO) - by @joelday](https://github.com/OpenXbox/xbox-smartglass-csharp)
 
+### Mobile apps (WIP)
+* [Gamestreaming Android app](https://github.com/OpenXbox/xbox-client-android)
+* [Gamestreaming iOS app](https://github.com/OpenXbox/xbox-client-macios)
+
+### Desktop apps (WIP)
+* [Gamestreaming macOS client](https://github.com/OpenXbox/xbox-client-macios)
+* [Gamestreaming FFmpeg client](https://github.com/OpenXbox/xbox-client-ffmpeg)
+
 ## Other implementations
 * [Home Assistant addon - maintained by @hunterjm](https://github.com/hunterjm/hassio-addons)
 * [ioBroker addon - maintained by @foxriver76](https://github.com/foxriver76/ioBroker.xbox)
