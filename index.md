@@ -4,6 +4,11 @@ title: Team OpenXbox
 
 # OpenXbox - Open Source Xbox One tools
 
+
+## What is this about?
+You can use the code and tools to control your Xbox remotely and do Gamestreaming, Live TV streaming and more.
+Check out the details here: [Documentation](https://openxbox.org/smartglass-documentation) 
+
 ## Who are you?
 We are a little group interested in Microsoft's Xbox One Gaming console and, more specifically, the SmartGlass protocol.
 
