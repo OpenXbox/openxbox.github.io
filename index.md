@@ -43,12 +43,10 @@ Provided Python libraries
 
 ### Mobile apps (WIP)
 
-- [Gamestreaming Android app](https://github.com/OpenXbox/xbox-client-android)
-- [Gamestreaming iOS app](https://github.com/OpenXbox/xbox-client-macios)
+- [Gamestreaming Android/iOS app](https://github.com/OpenXbox/xbox-client-xamarin)
 
 ### Desktop apps (WIP)
 
-- [Gamestreaming macOS client](https://github.com/OpenXbox/xbox-client-macios)
 - [Gamestreaming FFmpeg client](https://github.com/OpenXbox/xbox-client-ffmpeg)
 
 ## Other implementations
