@@ -2,6 +2,10 @@
 title: Team OpenXbox
 ---
 
+[![Documentation](https://img.shields.io/badge/docs-available-brightgreen)](https://openxbox.org/smartglass-documentation)
+[![Docker Automated build](https://img.shields.io/badge/docker-automated-blue)](https://hub.docker.com/r/openxbox)
+[![Discord](https://img.shields.io/badge/discord-chat-blue)](https://openxbox.org/discord)
+
 # OpenXbox - Open Source Xbox One tools
 
 ## What is this about?
@@ -30,28 +34,20 @@ We have several repositories serving you with code and documents to help you cre
 Provided Python libraries
 
 - [Xbox Web API](https://github.com/openxbox/xbox-webapi-python)
-- [Xbox SmartGlass Core](https://github.com/openxbox/xbox-smartglass-core-python)
-- [Xbox SmartGlass Stump (TV streaming / IR control commands)](https://github.com/openxbox/xbox-smartglass-stump-python)
-- [Xbox SmartGlass Auxiliary (Game experience / Fallout 4)](https://github.com/openxbox/xbox-smartglass-auxiliary-python)
-- [Xbox SmartGlass Nano (Gamestreaming)](https://github.com/openxbox/xbox-smartglass-nano-python)
-- [Xbox SmartGlass REST server (SmartGlass via HTTP)](https://github.com/OpenXbox/xbox-smartglass-rest-python)
+- [Xbox SmartGlass Core Library](https://github.com/openxbox/xbox-smartglass-core-python)
+- [Xbox SmartGlass Nano Extension (Gamestreaming)](https://github.com/openxbox/xbox-smartglass-nano-python)
 
 ### C# / .NET libraries
 
 - [Xbox Web API](https://github.com/OpenXbox/xbox-webapi-csharp)
-- [Xbox SmartGlass (AIO) - by @joelday](https://github.com/OpenXbox/xbox-smartglass-csharp)
+- [Xbox SmartGlass Library (Core & Nano)](https://github.com/OpenXbox/xbox-smartglass-csharp)
 
-### Mobile apps (WIP)
-
-- [Gamestreaming Android/iOS app](https://github.com/OpenXbox/xbox-client-xamarin)
-
-### Desktop apps (WIP)
-
-- [Gamestreaming FFmpeg client](https://github.com/OpenXbox/xbox-client-ffmpeg)
+### NodeJs
+- [Xbox SmartGlass Library](https://github.com/OpenXbox/xbox-smartglass-core-node)
 
 ## Other implementations
 
-- [Home Assistant addon - maintained by @hunterjm](https://github.com/hunterjm/hassio-addons)
+- [Home Assistant addon & hass.io integration - written by @hunterjm](https://github.com/OpenXbox/xboxone-home-assistant)
 - [ioBroker addon - maintained by @foxriver76](https://github.com/foxriver76/ioBroker.xbox)
 - [Elite: Dangerous plotter - maintained by @jtcressy](https://github.com/jtcressy/elite-route-plotter)
 
