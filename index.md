@@ -4,7 +4,7 @@ title: Team OpenXbox
 
 [![Documentation](https://img.shields.io/badge/docs-available-brightgreen)](https://openxbox.org/smartglass-documentation)
 [![Docker Automated build](https://img.shields.io/badge/docker-automated-blue)](https://hub.docker.com/r/openxbox)
-[![Discord](https://img.shields.io/badge/discord-chat-blue)](https://openxbox.org/discord)
+[![Discord](https://img.shields.io/discord/338946086775554048)](https://openxbox.org/discord)
 
 # OpenXbox - Open Source Xbox One tools
 
