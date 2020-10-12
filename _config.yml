@@ -1,2 +1,4 @@
 title: Team OpenXbox
 theme: jekyll-theme-architect
+include:
+ - .well-known
