@@ -35,7 +35,12 @@ Provided Python libraries
 
 - [Xbox Web API](https://github.com/openxbox/xbox-webapi-python)
 - [Xbox SmartGlass Core Library](https://github.com/openxbox/xbox-smartglass-core-python)
-- [Xbox SmartGlass Nano Extension (Gamestreaming)](https://github.com/openxbox/xbox-smartglass-nano-python)
+- [Xbox SmartGlass Nano (non-XCloud) Extension (Gamestreaming)](https://github.com/openxbox/xbox-smartglass-nano-python)
+- [Xbox XCloud research](https://github.com/OpenXbox/xcloud-python)
+
+# RUST
+
+- [Xbox XCloud research](https://github.com/OpenXbox/xcloud-rs)
 
 ### C# / .NET libraries
 
