@@ -38,7 +38,7 @@ Provided Python libraries
 - [Xbox SmartGlass Nano (non-XCloud) Extension (Gamestreaming)](https://github.com/openxbox/xbox-smartglass-nano-python)
 - [Xbox XCloud research](https://github.com/OpenXbox/xcloud-python)
 
-# RUST
+## Rust
 
 - [Xbox XCloud research](https://github.com/OpenXbox/xcloud-rs)
 
