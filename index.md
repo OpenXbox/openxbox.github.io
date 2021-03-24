@@ -29,28 +29,28 @@ We have several repositories serving you with code and documents to help you cre
 - [Protocol documentation](https://openxbox.github.io/smartglass-documentation)
 - [Tools](https://github.com/openxbox/smartglass-tools)
 
-### Python libraries
+### SmartGlass
 
-Provided Python libraries
+- [SmartGlass Core Library (PYTHON)](https://github.com/openxbox/xbox-smartglass-core-python)
+- [SmartGlass Library (Node.JS)](https://github.com/OpenXbox/xbox-smartglass-core-node)
 
-- [Xbox Web API](https://github.com/openxbox/xbox-webapi-python)
-- [Xbox SmartGlass Core Library](https://github.com/openxbox/xbox-smartglass-core-python)
-- [Xbox SmartGlass Nano (non-XCloud) Extension (Gamestreaming)](https://github.com/openxbox/xbox-smartglass-nano-python)
-- [Xbox XCloud research](https://github.com/OpenXbox/xcloud-python)
+### Nano v1/v2 (Local gamestreaming, kind of legacy)
 
-## Rust
+- [SmartGlass Nano Extension (PYTHON)](https://github.com/openxbox/xbox-smartglass-nano-python)
+- [SmartGlass Library Core & Nano (.NET CORE)](https://github.com/OpenXbox/xbox-smartglass-csharp)
 
-- [Xbox XCloud research](https://github.com/OpenXbox/xcloud-rs)
+### XCloud / XHome (Nano v3)
 
-### C# / .NET libraries
+- [XCloud research (RUST)](https://github.com/OpenXbox/xcloud-rs)
+- [XCloud research (PYTHON)](https://github.com/OpenXbox/xcloud-python)
 
-- [Xbox Web API](https://github.com/OpenXbox/xbox-webapi-csharp)
-- [Xbox SmartGlass Library (Core & Nano)](https://github.com/OpenXbox/xbox-smartglass-csharp)
+### Web API
 
-### NodeJs
-- [Xbox SmartGlass Library](https://github.com/OpenXbox/xbox-smartglass-core-node)
+- [Xbox Web API (.NET CORE)](https://github.com/OpenXbox/xbox-webapi-csharp)
+- [Xbox Web API (PYTHON)](https://github.com/openxbox/xbox-webapi-python)
 
-## Other implementations
+
+## Other related projects
 
 - [Home Assistant addon & hass.io integration - written by @hunterjm](https://github.com/OpenXbox/xboxone-home-assistant)
 - [ioBroker addon - maintained by @foxriver76](https://github.com/foxriver76/ioBroker.xbox)
