@@ -41,6 +41,8 @@ We have several repositories serving you with code and documents to help you cre
 
 ### XCloud / XHome (Nano v3)
 
+- [XCloud WebRTC Client (Node.js/Electron)](https://github.com/unknownskl/xbox-xcloud-client)
+- [XCloud WebRTC Library (Node.js/Electron)](https://github.com/unknownskl/xbox-xcloud-player)
 - [XCloud research (RUST)](https://github.com/OpenXbox/xcloud-rs)
 - [XCloud research (PYTHON)](https://github.com/OpenXbox/xcloud-python)
 
